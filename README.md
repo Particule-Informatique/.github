@@ -9,7 +9,7 @@
   <a href="https://github.com/Particule-Informatique/.github/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Particule-Informatique/.github/main/LICENSE" target="_blank">
+  <a href="https://github.com/Particule-Informatique/.github/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/thetimedevs/Particule informatique" />
   </a>
 </p>
